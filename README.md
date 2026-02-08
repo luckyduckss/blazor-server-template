@@ -4,6 +4,7 @@
 
 ```bash
 Install-Package Microsoft.EntityFrameworkCore.Design -Version 7.0.20
+Install-Package Microsoft.EntityFrameworkCore.SqlServer -Version 7.0.20
 Install-Package Pomelo.EntityFrameworkCore.MySql -Version 7.0.0
 ```
 
